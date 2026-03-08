@@ -1,34 +1,25 @@
-##Sales Analytics Dashboard
-========================================================================================================================================================
-#Project Overview
---------------------------------------------------------------------------------------------------------------------------------------------------------
-This project presents a Sales Analytics Dashboard built using Power BI to analyze sales performance, product trends, and regional insights.
+# 📊 Sales Analytics Dashboard
 
--Tools Used
+## Project Overview
 
-Power BI
+This project presents a **Sales Analytics Dashboard** built using Power BI to analyze sales performance, product trends, and regional insights.
 
-SQL
+## Tools Used
 
-Excel
+* Power BI
+* Excel
 
-Key Insights
+## Key Insights
 
-Identified top selling product categories
+* Identified top selling product categories
+* Analyzed monthly sales trends
+* Compared regional sales performance
 
-Analyzed monthly sales trends
+## Dashboard Preview
 
-Compared regional sales performance
+<img width="1117" height="632" alt="image" src="https://github.com/user-attachments/assets/a5becc7b-c590-47f4-a61e-0b422ab35279" />
 
-Dashboard Preview
+## Files Included
 
-
-
-
-Files Included
-
-Power BI Dashboard (.pbix)
-
-Dataset used for analysis
-
-Dashboard screenshot
+* Power BI Dashboard (.pbix)
+* Dashboard Screenshot
