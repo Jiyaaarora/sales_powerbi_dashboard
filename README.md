@@ -23,3 +23,10 @@ This project presents a **Sales Analytics Dashboard** built using Power BI to an
 
 * Power BI Dashboard (.pbix)
 * Dashboard Screenshot
+
+## About Me
+
+Hi, I'm **Jiya Arora**, an aspiring Data Analyst passionate about working with data and building insights using tools like SQL and Power BI.
+I enjoy analyzing datasets, discovering patterns, and creating dashboards that help in better decision-making.
+
+Currently, I am building projects in **SQL, Data Analysis, and Data Visualization** to strengthen my data analytics portfolio.
